@@ -1,0 +1,3 @@
+{
+  "directly_modify_inputs.textfile": "gs://topmed_workflow_testing/UWGAC_WDL/checker/a_vcf2gds/info.txt"
+}
