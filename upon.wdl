@@ -13,6 +13,8 @@ task direct_modification {
 	command {
 		set -eux -o pipefail
 
+		whoami
+
 		ls -lha .
 		ls -lha ~{textfile}
 
